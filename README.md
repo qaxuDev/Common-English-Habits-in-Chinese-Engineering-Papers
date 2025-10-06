@@ -6,7 +6,7 @@
 
 This guide identifies the **most frequent language, grammar, and formatting issues** that obscure clarity and reduce the chances of acceptance in international journals. It is designed to help authors **self-edit effectively**, especially when a native English-speaking editor is unavailable.
 
-The original report has gained wide attention among Chinese researchers and students. A well-known Chinese-language summary and annotation can be found on [CnBlogs](https://www.cnblogs.com/luohenyueji/p/16990846.html), which traces the report’s origin to around 2011 on `staff.ustc.edu.cn`.
+The original report has gained wide attention among Chinese researchers and students. A well-known Chinese-language summary and annotation can be found on [CnBlogs](https://www.cnblogs.com/luohenyueji/p/16990846.html).
 
 ---
 
