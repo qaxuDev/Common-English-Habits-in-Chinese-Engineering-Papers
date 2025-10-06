@@ -35,7 +35,8 @@ This report empowers writers to **recognize and correct their own recurring habi
   - ❌ `chosen to be **a** 3D modeling tool` (only one tool used)  
   - ✅ `chosen to be **the** 3D modeling tool`
 
-> 💡 See the **Article Decision Flowchart** in the Appendix.
+> 💡 See the **Article Decision Flowchart** .
+![Article Decision Flowchart](images/a_an_the.png)
 
 ---
 
